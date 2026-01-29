@@ -1,0 +1,8 @@
+# AIG240 Project 1 Assessment Questions
+## 1. What command did you use to create the ROS package?
+
+## 2. Explain why and how you used ROS messages in your program. i.e., Which message and type?
+
+## 3. Describe the steps to launch ROS, TurtleSim, and your ROS node simultaneously.
+
+## 4. How do you verify that your ROS node is publishing messages correctly? i.e., What command?
