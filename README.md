@@ -14,5 +14,5 @@ Assessment Questions:
 6. How do you verify that your ROS node is publishing messages correctly? i.e., What command?
 
    `echo $ROS_PACKAGE_PATH`
-   You should see:
+   \n You should see: \n
    `/home/jetauto/{workspace}/src:/opt/ros/melodic/share`
