@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+"""
+This code was made using the assistance of Google Gemini Gen AI
+"""
 
 import rospy
 from geometry_msgs.msg import Twist
