@@ -1,0 +1,2 @@
+lab3_turtlesim
+-DCATKIN_DEVEL_PREFIX=/home/jetauto/project01_ws/devel -DCMAKE_INSTALL_PREFIX=/home/jetauto/project01_ws/install -G Unix Makefiles
